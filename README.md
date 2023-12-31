@@ -1,4 +1,4 @@
-# Mavenfuzzyfactory_SQL_Project
+# Mavenfuzzyfactory_SQL_Data_Analysis_Project
 The Dataset is of a soft toy company - Maven Fuzzy Factory which has data of 3 years, with tables such as Orders, Website_Sessions, Website_Pageviews, Products, Order_items, and Order_items_refunds with close to 5 lakhs of records. The analysis was done as follows:
 
 1.Traffic source analysis : Identified which channels are giving high-quality traffic, paid channels, organic search, or direct type-in. Based on the conversion rate of 
